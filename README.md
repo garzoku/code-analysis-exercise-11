@@ -48,11 +48,11 @@ function (actualAge){
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td>1). The test input __actualAge__ is accepted by the function as an argument.<br>
-2). If __actualAge__ is equal to 1, then the following code block is executed. __humanYears__ is assigned the value of __actualAge__, while __catYears__ and __dogYears__ are assigned a value of 15. This __object__ of values is then returned and the function is complete. If __actualAge__ is not equal to 1, the following code block will not be executed.<br>
-3). If __actualAge__ is equal to 2, then the following code block is executed. __humanYears__ is assigned the value of __actualAge__, while __catYears__ and __dogYears__ are assigned a value of 24. This __object__ of values is then returned and the function is complete. If __actualAge__ is not equal to 2, the following code block will not be executed.<br>
-4). If __actualAge__ is not equal to 1 or 2, it will skip the first two blocks and go straight to the third. __humanYears__ is assigned the value of __actualAge__. __catYears__ and __dogYears__ will be assigned the resulting values of (actualAge - 2) * 4 + 24 and (actualAge - 2) * 5 + 24, respectively.<br>
-Summary: This function calculates how old a cat or dog is in their own "years" compared to a human of the __actualAge__ value.</td>
+    <td>1). The test input actualAge is accepted by the function as an argument.<br>
+2). If actualAge is equal to 1, then the following code block is executed. humanYears is assigned the value of actualAge, while catYears and dogYears are assigned a value of 15. This object of values is then returned and the function is complete. If actualAge is not equal to 1, the following code block will not be executed.<br>
+3). If actualAge is equal to 2, then the following code block is executed. humanYears is assigned the value of actualAge, while catYears and dogYears are assigned a value of 24. This object of values is then returned and the function is complete. If actualAge is not equal to 2, the following code block will not be executed.<br>
+4). If actualAge is not equal to 1 or 2, it will skip the first two blocks and go straight to the third.humanYears is assigned the value of actualAge. catYears and dogYears will be assigned the resulting values of (actualAge - 2) * 4 + 24 and (actualAge - 2) * 5 + 24, respectively.<br>
+Summary: This function calculates how old a cat or dog is in their own "years" compared to a human of the actualAge value.</td>
   </tr>
 </table>
 
