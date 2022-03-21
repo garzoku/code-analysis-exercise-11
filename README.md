@@ -33,17 +33,11 @@ function (actualAge){
 }
 ```
 
-| Input | Output        |
-| ----- | ------------- |
-|   1   | humanYears: 1,|
-|       | catYears: 15, |
-|       | dogYears: 15, | 
-|   2   | humanYears: 2,|
-|       | catYears: 24, |
-|       | dogYears: 24, | 
-|   3   | humanYears: 3,|
-|       | catYears: 28, | 
-|       | dogYears: 29, | 
+| Input | Output                                         |
+| ----- | ---------------------------------------------- |
+|   1   | ``{catYears: 15, dogYears: 15, humanYears: 1}``|
+|   2   | ``{catYears: 24, dogYears: 24, humanYears: 2}``|
+|   3   | ``{catYears: 38, dogYears: 39, humanYears: 3}``|
 
 <table>
   <tr>
